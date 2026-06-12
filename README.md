@@ -4,7 +4,9 @@ Slidev presentation for SouthEast LinuxFest 2026.
 
 ## Viewing
 
-Install Slidev either from npm or your preferred package manager
+This presentation is included here as both a directly-viewable PDF export and the Slidev source.
+
+To view with Slidev, iInstall Slidev either from npm or your preferred package manager
 
 ```bash
 npm i -g @slidev/cli
