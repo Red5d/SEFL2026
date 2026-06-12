@@ -4,7 +4,7 @@ Slidev presentation for SouthEast LinuxFest 2026.
 
 ## Viewing
 
-This presentation is included here as both a directly-viewable PDF export and the Slidev source.
+This presentation is included here as both a directly-viewable [PDF export](https://github.com/Red5d/SEFL2026/blob/master/Spec-driven%20development%20-%20Vibecoding%20for%20professionals.pdf) and the Slidev source.
 
 To view with Slidev, iInstall Slidev either from npm or your preferred package manager
 
